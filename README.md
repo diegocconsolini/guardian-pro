@@ -1,5 +1,4 @@
-# GitHub Professional Setup Files
-
+# Guardian Pro is an Enterprise Cybersecurity Platform for Raspberry Pi 5 with Hailo AI - Real-time threat detection with session-based professional development
 ## 📋 Required Files for Professional Repository
 
 ### **README.md** (Repository Root)
